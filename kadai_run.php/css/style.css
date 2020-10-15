@@ -1,0 +1,68 @@
+body{
+    width: 360px;
+    margin: 0 auto;
+}
+.header{
+    background-color: black;
+    height: 40px;
+    margin-bottom: 10px;
+}
+h1{
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+input{
+    margin-bottom: 16px;
+}
+
+#distance1{
+    width: 60px;
+}
+#hour{
+    width: 60px;
+}
+
+#submit{
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+}
+
+
+table{
+    margin: 0 auto;
+    width:360px;
+    table-layout: fixed;
+    border-collapse: separate;
+    border-spacing: 2px;
+    padding-bottom: 30px;
+}
+th{
+    line-height: 20px;
+    background-color: black;
+    overflow-wrap : break-word;
+    text-align: center;
+    color: white;
+    font-weight: normal;
+    padding: 1px;
+}
+td{
+    background-color:white;
+    overflow-wrap : break-word;
+    padding: 1px;
+    text-align: center;
+}
+
+a{
+   display: block;
+   color: black;
+   padding-bottom: 10px;
+   width: 100px;
+   margin: 0 auto;
+   text-align: center;
+}
